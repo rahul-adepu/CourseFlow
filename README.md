@@ -24,6 +24,15 @@ A simple student registration system built with React and Vite.
 
 ### Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/rahul-adepu/CourseFlow.git
+cd CourseFlow
+```
+
+Install dependencies:
+
 ```bash
 npm install
 ```
@@ -33,3 +42,13 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Live Demo
+
+You can check the live application in your browser:
+
+🌐 **Live URL:** [course-flow-kappa.vercel.app](https://course-flow-kappa.vercel.app)
+
+---
+
+Thank you for checking out CourseFlow!
