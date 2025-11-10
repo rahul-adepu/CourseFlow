@@ -33,19 +33,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-### Build
-
-```bash
-npm run build
-```
-
-### Preview
-
-```bash
-npm run preview
-```
-
-## Project Status
-
-🚧 Project setup complete. Development in progress.
